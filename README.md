@@ -56,5 +56,5 @@ The main stakeholder for this project is the AWS product development team, which
 This project provides actionable recommendations for the AWS product development team. The insights aim to guide strategic decisions, prioritize product improvements, and optimize offerings based on customer preferences and market dynamics. The findings will help AWS align its SaaS products with evolving customer demands and competitive market trends.
 
 ## Interactive Dashboard
-Explore the interactive [**Tableau Dashboard**](https://public.tableau.com/views/SaasSalesCapstone2/AWSSaaSDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) for an in-depth look at the analysis and data visualization.
+Explore the interactive [**Tableau Dashboard**](https://public.tableau.com/views/SaasSalesCapstone2/AWSSaaSDasboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for an in-depth look at the analysis and data visualization.
 
